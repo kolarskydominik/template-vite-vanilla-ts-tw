@@ -1,2 +1,1 @@
-# kolarsky_eu_2024
-Vite + Plain HTML/CSS/TS + Tailwind CSS
+# Vite + Vanilla TS + Tailwind CSS
